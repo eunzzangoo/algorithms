@@ -8,7 +8,7 @@
  *
  * Author: eunzzangu@GitHub (emilyp7370@gmail.com)
  * Date  : 2020-02-28
- * URL   : https://www.example.net/problem/0001
+ * URL   : https://www.example.com/problem/0001
  *
  */
 ```
@@ -17,6 +17,6 @@
 
 Directory에 표시된 웹사이트는 아래와 같습니다. 
 
-| Website / Contest | Directory |
-| ----------------- | --------- |
-|                   |           |
+| Website / Contest                       | Directory  |
+| --------------------------------------- | ---------- |
+|[programmers] https://programmers.co.kr/ | programmers|
