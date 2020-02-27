@@ -17,6 +17,6 @@
 
 Directory에 표시된 웹사이트는 아래와 같습니다. 
 
-| Website / Contest                       | Directory  |
-| --------------------------------------- | ---------- |
-|[programmers] https://programmers.co.kr/ | programmers|
+| Website / Contest                          | Directory   |
+| ------------------------------------------ | ----------- |
+| [programmers] (https://programmers.co.kr/) | programmers |
