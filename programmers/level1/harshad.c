@@ -2,7 +2,7 @@
  * About
  *
  * Author: eunzzangoo@GitHub (emilyp7370@gmail.com)
- * Date  : 2020-03-08i
+ * Date  : 2020-03-08
  * URL   : https://programmers.co.kr/learn/courses/30/lessons/12947
  *
  */
@@ -16,12 +16,12 @@ bool solution(int x) {
     int xcopy = x;
     int sum = 0;
 
-    while(x)
+    while (x)
     {
-        sum += x%10;
+        sum += x % 10;
         x /= 10;
     }
-    if(xcopy%sum == 0)
+    if (xcopy % sum == 0)
         answer = true;
     else
         answer = false;
